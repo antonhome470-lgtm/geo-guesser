@@ -1,0 +1,16 @@
+{
+  "name": "Достопримечательности",
+  "description": "Знаменитые достопримечательности мира",
+  "locations": [
+    { "id": 1, "lat": 48.8584, "lng": 2.2945, "name": "Эйфелева башня", "country": "Франция", "difficulty": "easy" },
+    { "id": 2, "lat": 40.6892, "lng": -74.0445, "name": "Статуя Свободы", "country": "США", "difficulty": "easy" },
+    { "id": 3, "lat": 27.1751, "lng": 78.0421, "name": "Тадж-Махал", "country": "Индия", "difficulty": "easy" },
+    { "id": 4, "lat": 41.0082, "lng": 28.9784, "name": "Айя-София", "country": "Турция", "difficulty": "medium" },
+    { "id": 5, "lat": 36.2605, "lng": -112.3568, "name": "Гранд-Каньон", "country": "США", "difficulty": "medium" },
+    { "id": 6, "lat": 25.2048, "lng": 55.2708, "name": "Пальма Джумейра", "country": "ОАЭ", "difficulty": "medium" },
+    { "id": 7, "lat": -25.3444, "lng": 131.0369, "name": "Улуру", "country": "Австралия", "difficulty": "hard" },
+    { "id": 8, "lat": 51.1789, "lng": -1.8262, "name": "Стоунхендж", "country": "Великобритания", "difficulty": "medium" },
+    { "id": 9, "lat": 43.7228, "lng": 10.3966, "name": "Пизанская башня", "country": "Италия", "difficulty": "easy" },
+    { "id": 10, "lat": 55.7520, "lng": 37.6175, "name": "Храм Василия Блаженного", "country": "Россия", "difficulty": "easy" }
+  ]
+}
