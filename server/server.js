@@ -44,6 +44,7 @@ app.use('/api/auth', require('./routes/auth'));
 app.use('/api/users', require('./routes/users'));
 app.use('/api/rooms', require('./routes/rooms'));
 app.use('/api/coordinates', require('./routes/coordinates'));
+app.use('/api/games', require('./routes/games'));
 
 // Статические файлы (для production)
 if (process.env.NODE_ENV === 'production') {
