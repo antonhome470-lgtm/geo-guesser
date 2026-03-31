@@ -1,0 +1,16 @@
+{
+  "name": "Стадионы мира",
+  "description": "Известные стадионы мира",
+  "locations": [
+    { "id": 1, "lat": 51.5560, "lng": -0.2796, "name": "Уэмбли", "country": "Великобритания", "city": "Лондон", "difficulty": "easy" },
+    { "id": 2, "lat": 41.3809, "lng": 2.1228, "name": "Камп Ноу", "country": "Испания", "city": "Барселона", "difficulty": "easy" },
+    { "id": 3, "lat": 40.4531, "lng": -3.6883, "name": "Сантьяго Бернабеу", "country": "Испания", "city": "Мадрид", "difficulty": "easy" },
+    { "id": 4, "lat": 48.8419, "lng": 2.2530, "name": "Парк де Пренс", "country": "Франция", "city": "Париж", "difficulty": "medium" },
+    { "id": 5, "lat": 55.8166, "lng": 37.4400, "name": "Лужники", "country": "Россия", "city": "Москва", "difficulty": "easy" },
+    { "id": 6, "lat": 45.4781, "lng": 9.1240, "name": "Сан-Сиро", "country": "Италия", "city": "Милан", "difficulty": "medium" },
+    { "id": 7, "lat": 51.6042, "lng": -0.0669, "name": "Тоттенхэм Стэдиум", "country": "Великобритания", "city": "Лондон", "difficulty": "medium" },
+    { "id": 8, "lat": 48.2188, "lng": 11.6247, "name": "Альянц Арена", "country": "Германия", "city": "Мюнхен", "difficulty": "medium" },
+    { "id": 9, "lat": -22.9121, "lng": -43.2302, "name": "Маракана", "country": "Бразилия", "city": "Рио-де-Жанейро", "difficulty": "easy" },
+    { "id": 10, "lat": -34.1613, "lng": -58.4496, "name": "Ла Бомбонера", "country": "Аргентина", "city": "Буэнос-Айрес", "difficulty": "hard" }
+  ]
+}
