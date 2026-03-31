@@ -1,0 +1,21 @@
+{
+  "name": "Столицы мира",
+  "description": "Столицы различных государств",
+  "locations": [
+    { "id": 1, "lat": 48.8566, "lng": 2.3522, "name": "Париж", "country": "Франция", "difficulty": "easy" },
+    { "id": 2, "lat": 51.5074, "lng": -0.1278, "name": "Лондон", "country": "Великобритания", "difficulty": "easy" },
+    { "id": 3, "lat": 52.5200, "lng": 13.4050, "name": "Берлин", "country": "Германия", "difficulty": "easy" },
+    { "id": 4, "lat": 40.4168, "lng": -3.7038, "name": "Мадрид", "country": "Испания", "difficulty": "medium" },
+    { "id": 5, "lat": 41.9028, "lng": 12.4964, "name": "Рим", "country": "Италия", "difficulty": "easy" },
+    { "id": 6, "lat": 35.6762, "lng": 139.6503, "name": "Токио", "country": "Япония", "difficulty": "medium" },
+    { "id": 7, "lat": 39.9042, "lng": 116.4074, "name": "Пекин", "country": "Китай", "difficulty": "medium" },
+    { "id": 8, "lat": 55.7558, "lng": 37.6173, "name": "Москва", "country": "Россия", "difficulty": "easy" },
+    { "id": 9, "lat": 38.9072, "lng": -77.0369, "name": "Вашингтон", "country": "США", "difficulty": "easy" },
+    { "id": 10, "lat": -15.7975, "lng": -47.8919, "name": "Бразилиа", "country": "Бразилия", "difficulty": "hard" },
+    { "id": 11, "lat": 28.6139, "lng": 77.2090, "name": "Нью-Дели", "country": "Индия", "difficulty": "medium" },
+    { "id": 12, "lat": -35.2809, "lng": 149.1300, "name": "Канберра", "country": "Австралия", "difficulty": "hard" },
+    { "id": 13, "lat": 30.0444, "lng": 31.2357, "name": "Каир", "country": "Египет", "difficulty": "medium" },
+    { "id": 14, "lat": 59.3293, "lng": 18.0686, "name": "Стокгольм", "country": "Швеция", "difficulty": "medium" },
+    { "id": 15, "lat": 37.5665, "lng": 126.9780, "name": "Сеул", "country": "Южная Корея", "difficulty": "medium" }
+  ]
+}
